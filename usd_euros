@@ -1,0 +1,5 @@
+usd = 362
+euros = usd*0.93
+
+print(str(usd), "USD is the same as")
+print(str(euros), "Euros!")
